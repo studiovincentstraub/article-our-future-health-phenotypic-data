@@ -2,8 +2,7 @@
 
 This repository contains Jupyter notebooks used to reproduce analyses for the paper:
 
-> **Up to five-million-person Our Future Health cohort captures UK phenomic profiles and disease patterns, compared against the general population and other cohorts**  
-> Vincent J. Straub*, Stefania Benonisdottir, Giovanni Scotti Bentivoglio, Neil Wary, Robert Campbell, Augustine Kong, Melinda C. Mills*  
+> **Up to five-million-person Our Future Health cohort captures UK phenomic profiles and disease patterns, compared against the general population and other cohorts**. Vincent J. Straub*, Stefania Benonisdottir, Giovanni Scotti Bentivoglio, Neil Wary, Robert Campbell, Augustine Kong, Melinda C. Mills*  
 > *Correspondence: vincent.straub@ndph.ox.ac.uk; melinda.mills@demography.ox.ac.uk
 
 The notebooks reproduce figures and summary analyses describing phenotypic profiles and disease patterns in the Our Future Health (OFH) cohort and comparisons with national statistics and other large population cohorts, notably UK Biobank.
