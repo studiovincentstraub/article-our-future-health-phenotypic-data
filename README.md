@@ -60,12 +60,12 @@ This repository does **not** contain any restricted or identifiable data. Users 
 Public data used in the analyses include:
 
 - OFH map of clinic locations: https://go.nature.com/41oKFic  
-- Health Survey for England (HSE, 2021)  
-- Office for National Statistics (ONS, 2021)  
-- Kurki et al. (2023)  
+- Health Survey for England (HSE, 2021 and 2022): https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england  
+- Office for National Statistics (ONS, 2021): https://www.ons.gov.uk/census
+- Kurki et al. (2023)  https://www.nature.com/articles/s41586-022-05473-8
 - All of Us Research Program data snapshots: https://www.researchallofus.org/data-tools/data-snapshots/  
-- Global Burden of Disease (GBD, 2021)  
-- National Disease Registration Service (NDRS, 2022)
+- Global Burden of Disease (GBD, 2021): https://www.healthdata.org/research-analysis/gbd
+- National Disease Registration Service (NDRS, 2022): https://digital.nhs.uk/ndrs
 
 Full details of publicly available data sources used for each figure, along with de-identified processed summary-level data, are provided in the Supplementary Tables and Supplementary Information of the paper.
 
