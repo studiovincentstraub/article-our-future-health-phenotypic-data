@@ -25,6 +25,8 @@ The notebooks reproduce figures and summary analyses describing phenotypic profi
 │   ├── get_top_ten_prev_vjs.ipynb
 │   ├── plot_pop_pyramid_by_ethn_gsb.ipynb
 │   └── plot_pop_pyramid_gsb.ipynb
+├── resources/
+│   └── DNAnexus-links.md
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
