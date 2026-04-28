@@ -13,18 +13,6 @@ The notebooks reproduce figures and summary analyses describing phenotypic profi
 ```
 .
 ├── notebooks/
-│   ├── calc_diag_prev_vjs.ipynb
-│   ├── calc_hse_comparison_vjs.ipynb
-│   ├── calc_odds_ratio_nw.ipynb
-│   ├── get_canc_prev_vjs.ipynb
-│   ├── get_event_cases_vjs.ipynb
-│   ├── get_meds_correlates_nw.ipynb
-│   ├── get_meds_prev_vjs.ipynb
-│   ├── get_meds_usage_vjs.ipynb
-│   ├── get_sociodemographics_vjs.ipynb
-│   ├── get_top_ten_prev_vjs.ipynb
-│   ├── plot_pop_pyramid_by_ethn_gsb.ipynb
-│   └── plot_pop_pyramid_gsb.ipynb
 ├── resources/
 │   └── DNAnexus-links.md
 ├── README.md
@@ -36,8 +24,6 @@ The notebooks reproduce figures and summary analyses describing phenotypic profi
 
 All analysis code is contained in the `notebooks/` directory.  
 No raw or individual-level data are included.
-
-
 
 ## Data availability and access
 
